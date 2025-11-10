@@ -8,7 +8,7 @@ O sistema é executado via console e armazena os dados em memória (utilizando A
 
 O Diagrama de Classes UML completo, representando a arquitetura do sistema, pode ser encontrado no link abaixo:
 
-![Diagrama UML do Sistema SOL](DiagramaUML.jpg)
+![Diagrama UML do Sistema SOL](/DiagramaUML.png)
 
 2. Documentação e Conceitos de POO
 
@@ -39,3 +39,8 @@ Execute o arquivo Main.java (localizado em br/com/puc/sol/Main.java).
 O sistema carregará dados pré-cadastrados (cursos, alunos, professores, turmas).
 
 Utilize o menu numérico no console para interagir com o sistema.
+
+![Diagrama UML do Sistema SOL](/Alimentacao.png)
+![Diagrama UML do Sistema SOL](/ListarAluno.png)
+![Diagrama UML do Sistema SOL](/CadastroAluno.png)
+
