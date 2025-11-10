@@ -8,8 +8,7 @@ O sistema é executado via console e armazena os dados em memória (utilizando A
 
 O Diagrama de Classes UML completo, representando a arquitetura do sistema, pode ser encontrado no link abaixo:
 
-[LINK PARA O SEU DIAGRAMA UML AQUI]
-(Substitua este texto pelo link da sua imagem do diagrama)
+![Diagrama UML do Sistema SOL](DiagramaUML.jpg)
 
 2. Documentação e Conceitos de POO
 
